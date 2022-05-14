@@ -108,6 +108,20 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Doug",
+      "species": "Duck",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "11"
+    },
+    {
+      "name": "Doug",
+      "species": "Duck",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "12"
     }
   ]
 }
